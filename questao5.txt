@@ -1,0 +1,2 @@
+Usaria 2 interruptores diferentes, e faria duas visitas para verificar a lâmpada que acendeu.
+Ao fim das minhas idas, eu já tenho recordado as lâmpadas que se acenderam e os interruptores utilizados em cada uma das visitas. A lâmpada que não acendeu e o interruptor que não utilizei estão interligados entre si, logo com duas visitas já possuo o conhecimento de qual interruptor está ligado a qual lâmpada associada ao mesmo.
